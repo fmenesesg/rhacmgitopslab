@@ -4,7 +4,7 @@ metadata:
   name: pacman
   namespace: pacman
 spec:
-  host: pacman-ingress.apps.azure-2.azureclusters.rhscldemos.net
+  host: pacman-ingress.apps.cluster-cluster3-724e.cluster3-724e.sandbox1805.opentlc.com
   port:
     targetPort: 8080
   to:
